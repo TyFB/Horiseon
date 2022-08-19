@@ -1,3 +1,4 @@
+/* Wanted to have an easier way to use the main colors*/
 :root {
     --primary-color: #2a607c;
     --secondary-color: #ffffff;
@@ -15,6 +16,7 @@ body {
     background-color: var(--highlight-color);
 }
 
+/* Added flex to make navigation of the site easier */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
